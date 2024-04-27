@@ -6,7 +6,5 @@
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: Did you know that humans are made mostly up of water
 
-<!---
-Cure64/Cure64 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/E1E4LWR3R)
