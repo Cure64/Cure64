@@ -2,8 +2,7 @@
 - 👀 I’m interested in Coding and SCP:SL Plugins
 - 🌱 I’m currently learning on how to code
 - 💞️ I’m looking to collaborate on SCP:SL Plugins (Maybe in the future when I have more coding knowledge)
-- 📫 How to reach me cpcriner1@gmail.com   Discord: imcure
-- 😄 Pronouns: He/Him/His
+- 📫 How to reach me cpcriner1@gmail.com   Discord: cu.re.
 - ⚡ Fun fact: Did you know that humans are made mostly up of water
 
 
